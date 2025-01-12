@@ -1,0 +1,1 @@
+This example demonstrates a common error in Python: an unclosed parenthesis. The `function_with_unclosed_bracket` function has a missing closing parenthesis in its `return` statement. This causes a `SyntaxError` because Python's parser cannot understand the incomplete expression. The solution involves adding the missing closing parenthesis to correct the syntax.
